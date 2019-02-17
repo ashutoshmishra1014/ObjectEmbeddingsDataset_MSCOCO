@@ -22,7 +22,7 @@ The dataset is split into multiple JSON files. Each JSON file contains a list of
 * - items are repeatable
 <br />
 <br />
-Find attached with this repository sample JSON files from this dataset inside the **sample** folder.
+Find attached with this repository sample JSON files from this dataset inside the sample folder.
 <br />
 <br />
   
