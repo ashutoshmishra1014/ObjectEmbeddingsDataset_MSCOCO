@@ -11,7 +11,7 @@ Find sample json files containing:
 6. Bounding box information for each object instance
 7. Distance of each object instance from the origin(top-left) of the image
 <br />
-<br />
+
 **Format of Dataset**:
 <br />
 The dataset is split into multiple JSON files. Each JSON file contains a list of dictionaries where each dictionary is pertaining to a single image from the MSCOCO image captioning dataset.
