@@ -19,7 +19,7 @@ The dataset is split into multiple JSON files. Each JSON file contains a list of
 [{<name of image>:{'num_objects':<number of objects>, 'objects': [{'object_lable':<name of object>, 'object_word_embedding':<word2vec based object label features>, 'feature_vectors':[{'object_visual_embedding':<alexnet based object visual features>}*], 'bounding_box':<x,y position of the object>, 'distance': <object distance from top-left position inside image>}*]}}*]
 <br />
 <br />
-* - items are repeatable
+\* - items are repeatable
 <br />
 <br />
 Find attached with this repository sample JSON files from this dataset inside the sample folder.
